@@ -1,0 +1,15 @@
+.header_lang-selector option{
+    color: black;
+
+}
+.nav input[type='search']{
+    width: 250px;
+    padding: 5px;
+    padding-left: 10px;
+    border-radius: 5px;
+    border: none;
+    outline: none;
+    color: black;
+    transition: width 0.3s ease;
+
+}
