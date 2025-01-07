@@ -147,7 +147,7 @@ const OurProducts = () => {
               <div className="flex gap-2 flex-col">
                 <div className="flex justify-center items-center">
                   <img
-                    src="../../../../BestSelling-img/Light-Gucci-Savoy-medium-duffle-bag.png"
+                    src="../../../../images/BestSelling-img/Light-Gucci-Savoy-medium-duffle-bag.png"
                     alt=""
                   />
                 </div>
@@ -160,7 +160,7 @@ const OurProducts = () => {
               <div className="flex gap-2 flex-col">
                 <div className=" flex justify-center items-center">
                   <img
-                    src="../../../../BestSelling-img/Light-Gucci-Savoy-medium-duffle-bag.png"
+                    src="../../../../images/BestSelling-img/Light-Gucci-Savoy-medium-duffle-bag.png"
                     alt=""
                   />
                 </div>
@@ -173,7 +173,7 @@ const OurProducts = () => {
               <div className="flex gap-2 flex-col">
                 <div className="flex justify-center items-center">
                   <img
-                    src="../../../../BestSelling-img/Light-Gucci-Savoy-medium-duffle-bag.png"
+                    src="../../../../images/BestSelling-img/Light-Gucci-Savoy-medium-duffle-bag.png"
                     alt=""
                   />
                 </div>
@@ -186,7 +186,7 @@ const OurProducts = () => {
               <div className="flex gap-2 flex-col">
                 <div className="flex justify-center items-center">
                   <img
-                    src="../../../../BestSelling-img/Light-Gucci-Savoy-medium-duffle-bag.png"
+                    src="../../../../images/BestSelling-img/Light-Gucci-Savoy-medium-duffle-bag.png"
                     alt=""
                   />
                 </div>
@@ -199,7 +199,7 @@ const OurProducts = () => {
               <div className="flex gap-2 flex-col">
                 <div className=" flex justify-center items-center">
                   <img
-                    src="../../../../BestSelling-img/Light-Gucci-Savoy-medium-duffle-bag.png"
+                    src="../../../../images/BestSelling-img/Light-Gucci-Savoy-medium-duffle-bag.png"
                     alt=""
                   />
                 </div>
@@ -212,7 +212,7 @@ const OurProducts = () => {
               <div className="flex gap-2 flex-col">
                 <div className=" flex justify-center items-center">
                   <img
-                    src="../../../../BestSelling-img/Light-Gucci-Savoy-medium-duffle-bag.png"
+                    src="../../../../images/BestSelling-img/Light-Gucci-Savoy-medium-duffle-bag.png"
                     alt=""
                   />
                 </div>
@@ -248,7 +248,7 @@ const OurProducts = () => {
               <div className="flex gap-2 flex-col">
                 <div className=" flex justify-center items-center">
                   <img
-                    src="../../../../BestSelling-img/Light-Gucci-Savoy-medium-duffle-bag.png"
+                    src="../../../../images/BestSelling-img/Light-Gucci-Savoy-medium-duffle-bag.png"
                     alt=""
                   />
                 </div>
@@ -261,7 +261,7 @@ const OurProducts = () => {
               <div className="flex gap-2 flex-col">
                 <div className="flex justify-center items-center">
                   <img
-                    src="../../../../BestSelling-img/Light-Gucci-Savoy-medium-duffle-bag.png"
+                    src="../../../../images/BestSelling-img/Light-Gucci-Savoy-medium-duffle-bag.png"
                     alt=""
                   />
                 </div>
@@ -274,7 +274,7 @@ const OurProducts = () => {
               <div className="flex gap-2 flex-col">
                 <div className="flex justify-center items-center">
                   <img
-                    src="../../../../BestSelling-img/Light-Gucci-Savoy-medium-duffle-bag.png"
+                    src="../../../../images/BestSelling-img/Light-Gucci-Savoy-medium-duffle-bag.png"
                     alt=""
                   />
                 </div>
@@ -287,7 +287,7 @@ const OurProducts = () => {
               <div className="flex gap-2 flex-col">
                 <div className="flex justify-center items-center">
                   <img
-                    src="../../../../BestSelling-img/Light-Gucci-Savoy-medium-duffle-bag.png"
+                    src="../../../../images/BestSelling-img/Light-Gucci-Savoy-medium-duffle-bag.png"
                     alt=""
                   />
                 </div>
@@ -300,7 +300,7 @@ const OurProducts = () => {
               <div className="flex gap-2 flex-col">
                 <div className="flex justify-center items-center">
                   <img
-                    src="../../../../BestSelling-img/Light-Gucci-Savoy-medium-duffle-bag.png"
+                    src="../../../../images/BestSelling-img/Light-Gucci-Savoy-medium-duffle-bag.png"
                     alt=""
                   />
                 </div>
@@ -313,7 +313,7 @@ const OurProducts = () => {
               <div className="flex gap-2 flex-col bg-[#F5F5F5]">
                 <div className=" bg-transparent flex justify-center items-center">
                   <img
-                    src="../../../../BestSelling-img/Light-Gucci-Savoy-medium-duffle-bag.png"
+                    src="../../../../images/BestSelling-img/Light-Gucci-Savoy-medium-duffle-bag.png"
                     alt=""
                   />
                 </div>

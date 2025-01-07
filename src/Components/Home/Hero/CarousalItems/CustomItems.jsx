@@ -27,7 +27,7 @@ const CustomItems = () => {
         <div className="w-[60%]">
           <img
             className="object-cover"
-            src="../../../../../hero-images/mobile.webp"
+            src="../../../../../images/hero-images/mobile.webp"
             alt=""
           />
         </div>

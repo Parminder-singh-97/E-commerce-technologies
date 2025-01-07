@@ -101,7 +101,7 @@ const Today = () => {
         <div className="flex gap-2 flex-col">
             <div className="bg-gray-400 flex justify-center items-center">
 
-            <img  src="../../../../Today-Slider-img/remoteControl.svg" alt="" />
+            <img  src="../../../../images/Today-Slider-img/remoteControl.svg" alt="" />
             </div>
             <h2>remote-control Xbox</h2>
             <p>Price</p>
@@ -112,7 +112,7 @@ const Today = () => {
         <div className="flex gap-2 flex-col">
             <div className="bg-gray-400 flex justify-center items-center">
 
-            <img  src="../../../../Today-Slider-img/remoteControl.svg" alt="" />
+            <img  src="../../../../images/Today-Slider-img/remoteControl.svg" alt="" />
             </div>
             <h2>remote-control Xbox</h2>
             <p>Price</p>
@@ -123,7 +123,7 @@ const Today = () => {
         <div className="flex gap-2 flex-col">
             <div className="bg-gray-400 flex justify-center items-center">
 
-            <img  src="../../../../Today-Slider-img/remoteControl.svg" alt="" />
+            <img  src="../../../../images/Today-Slider-img/remoteControl.svg" alt="" />
             </div>
             <h2>remote-control Xbox</h2>
             <p>Price</p>
@@ -134,7 +134,7 @@ const Today = () => {
         <div className="flex gap-2 flex-col">
             <div className="bg-gray-400 flex justify-center items-center">
 
-            <img  src="../../../../Today-Slider-img/remoteControl.svg" alt="" />
+            <img  src="../../../../images/Today-Slider-img/remoteControl.svg" alt="" />
             </div>
             <h2>remote-control Xbox</h2>
             <p>Price</p>
@@ -145,7 +145,7 @@ const Today = () => {
         <div className="flex gap-2 flex-col">
             <div className="bg-gray-400 flex justify-center items-center">
 
-            <img  src="../../../../Today-Slider-img/remoteControl.svg" alt="" />
+            <img  src="../../../../images/Today-Slider-img/remoteControl.svg" alt="" />
             </div>
             <h2>remote-control Xbox</h2>
             <p>Price</p>
@@ -156,7 +156,7 @@ const Today = () => {
         <div className="flex gap-2 flex-col">
             <div className="bg-gray-400 flex justify-center items-center">
 
-            <img  src="../../../../Today-Slider-img/remoteControl.svg" alt="" />
+            <img  src="../../../../images/Today-Slider-img/remoteControl.svg" alt="" />
             </div>
             <h2>remote-control Xbox</h2>
             <p>Price</p>

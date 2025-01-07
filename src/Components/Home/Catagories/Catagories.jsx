@@ -49,29 +49,29 @@ const Catagories = () => {
   const categories = [
     {
       name: "CellPhone",
-      image: '../../../../Catagory-img/CellPhone.svg',
+      image: '../../../../images/Catagory-img/CellPhone.svg',
       func:()=>  console.log("click")
     },
     {
       name: "Computer",
-      image: '../../../../Catagory-img/Computer.svg',
+      image: '../../../../images/Catagory-img/Computer.svg',
     },
     {
       name: "SmartWatch",
-      image: '../../../../Catagory-img/SmartWatch.svg',
+      image: '../../../../images/Catagory-img/SmartWatch.svg',
     },
     {
       name: "GamePad",
-      image: '../../../../Catagory-img/GamePad.svg',
+      image: '../../../../images/Catagory-img/GamePad.svg',
 
     },
     {
       name: "HeadPhone",
-      image: '../../../../Catagory-img/HeadPhone.svg',
+      image: '../../../../images/Catagory-img/HeadPhone.svg',
     },
     {
       name: "Camera",
-      image: '../../../../Catagory-img/Camera.svg',
+      image: '../../../../images/Catagory-img/Camera.svg',
     },
   ];
   

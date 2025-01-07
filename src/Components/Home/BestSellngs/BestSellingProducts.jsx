@@ -86,7 +86,7 @@ const BestSellingProducts = () => {
                 <div className="flex gap-2 flex-col">
                   <div className="bg-gray-400 flex justify-center items-center">
                     <img
-                      src="../../../../BestSelling-img/Light-Gucci-Savoy-medium-duffle-bag.png"
+                      src="../../../../images/BestSelling-img/Light-Gucci-Savoy-medium-duffle-bag.png"
                       alt=""
                     />
                   </div>
@@ -95,11 +95,11 @@ const BestSellingProducts = () => {
                   <p>rating</p>
                 </div>
               </div>
-              <div className="max-w-[260px] border-2 p-3 cursor-pointer rounded-md  mx-auto">
+              <div className="max-w-[260px] border-2 p-3 cursor-pointer rounded-md mx-auto">
                 <div className="flex gap-2 flex-col">
                   <div className="bg-gray-400 flex justify-center items-center">
                     <img
-                      src="../../../../BestSelling-img/Light-Gucci-Savoy-medium-duffle-bag.png"
+                      src="../../../../images/BestSelling-img/Light-Gucci-Savoy-medium-duffle-bag.png"
                       alt=""
                     />
                   </div>
@@ -108,11 +108,11 @@ const BestSellingProducts = () => {
                   <p>rating</p>
                 </div>
               </div>
-              <div className="max-w-[260px] border-2 p-3 cursor-pointer rounded-md  mx-auto">
+              <div className="max-w-[260px] border-2 p-3 cursor-pointer rounded-md mx-auto">
                 <div className="flex gap-2 flex-col">
                   <div className="bg-gray-400 flex justify-center items-center">
                     <img
-                      src="../../../../BestSelling-img/Light-Gucci-Savoy-medium-duffle-bag.png"
+                      src="../../../../images/BestSelling-img/Light-Gucci-Savoy-medium-duffle-bag.png"
                       alt=""
                     />
                   </div>
@@ -121,11 +121,11 @@ const BestSellingProducts = () => {
                   <p>rating</p>
                 </div>
               </div>
-              <div className="max-w-[260px] border-2 p-3 cursor-pointer rounded-md  mx-auto">
+              <div className="max-w-[260px] border-2 p-3 cursor-pointer rounded-md mx-auto">
                 <div className="flex gap-2 flex-col">
                   <div className="bg-gray-400 flex justify-center items-center">
                     <img
-                      src="../../../../BestSelling-img/Light-Gucci-Savoy-medium-duffle-bag.png"
+                      src="../../../../images/BestSelling-img/Light-Gucci-Savoy-medium-duffle-bag.png"
                       alt=""
                     />
                   </div>
@@ -134,11 +134,11 @@ const BestSellingProducts = () => {
                   <p>rating</p>
                 </div>
               </div>
-              <div className="max-w-[260px] border-2 p-3 cursor-pointer rounded-md  mx-auto">
+              <div className="max-w-[260px] border-2 p-3 cursor-pointer rounded-md mx-auto">
                 <div className="flex gap-2 flex-col">
                   <div className="bg-gray-400 flex justify-center items-center">
                     <img
-                      src="../../../../BestSelling-img/Light-Gucci-Savoy-medium-duffle-bag.png"
+                      src="../../../../images/BestSelling-img/Light-Gucci-Savoy-medium-duffle-bag.png"
                       alt=""
                     />
                   </div>
@@ -147,11 +147,11 @@ const BestSellingProducts = () => {
                   <p>rating</p>
                 </div>
               </div>
-              <div className="max-w-[260px] border-2 p-3 cursor-pointer rounded-md  mx-auto">
+              <div className="max-w-[260px] border-2 p-3 cursor-pointer rounded-md mx-auto">
                 <div className="flex gap-2 flex-col">
                   <div className="bg-gray-400 flex justify-center items-center">
                     <img
-                      src="../../../../BestSelling-img/Light-Gucci-Savoy-medium-duffle-bag.png"
+                      src="../../../../images/BestSelling-img/Light-Gucci-Savoy-medium-duffle-bag.png"
                       alt=""
                     />
                   </div>
@@ -160,6 +160,20 @@ const BestSellingProducts = () => {
                   <p>rating</p>
                 </div>
               </div>
+              <div className="max-w-[260px] border-2 p-3 cursor-pointer rounded-md mx-auto">
+                <div className="flex gap-2 flex-col">
+                  <div className="bg-gray-400 flex justify-center items-center">
+                    <img
+                      src="../../../../images/BestSelling-img/Light-Gucci-Savoy-medium-duffle-bag.png"
+                      alt=""
+                    />
+                  </div>
+                  <h2>remote-control Xbox</h2>
+                  <p>Price</p>
+                  <p>rating</p>
+                </div>
+              </div>
+             
             </Slider>
           </div>
         </div>

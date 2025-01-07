@@ -1,18 +1,18 @@
 .feature_left{
-    background-image: url('../../../../Featured/ps5-slim.webp');
+    background-image: url('../../../../images/Featured/ps5-slim.webp');
     background-position:bottom;
     background-size: contain;
     background-repeat: no-repeat;
 }
 .feature_right-top{
-    background-image: url('../../../../Featured/attractive-woman-wearing-hat-posing-black.webp');
+    background-image: url('../../../../images/Featured/attractive-woman-wearing-hat-posing-black.webp');
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
 }
 
 .feature_right-buttom-smallBox1{
-    background-image: url('../../../../Featured/speaker.webp');
+    background-image: url('../../../../images/Featured/speaker.webp');
     background-position: center;
     background-size: contain;
     background-repeat: no-repeat;
@@ -20,7 +20,7 @@
    
 }
 .feature_right-buttom-smallBox2{
-    background-image: url('../../../../Featured/gucci-perfume.webp');
+    background-image: url('../../../../images/Featured/gucci-perfume.webp');
     background-position: center;
     background-size: contain;
     background-color: black;

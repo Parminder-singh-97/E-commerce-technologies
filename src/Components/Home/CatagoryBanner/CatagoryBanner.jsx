@@ -22,7 +22,7 @@ const CatagoryBanner = () => {
         <div className=''>
            
 
-            <img className='' src='../../../../CatagoryBanner/jblSpeaker.webp' alt='jblSpeaker' />
+            <img className='' src='../../../../images/CatagoryBanner/jblSpeaker.webp' alt='jblSpeaker' />
             
 
         </div>
