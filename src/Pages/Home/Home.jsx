@@ -28,7 +28,7 @@ const Home = () => {
       <section className=" mt-4 bestSelingProducts">
         <BestSellingProducts />
       </section>
-      <section className="  md:w-[90%] w-[100%] flex justify-center items-center md:mx-auto m-1 md:mt-10 catagoryBanner">
+      <section className="m-auto container md:w-[90%] w-[100%] flex justify-center items-center  catagoryBanner">
         <CatagoryBanner />
       </section>
       <section className=" mt-10 bestSelingProducts">

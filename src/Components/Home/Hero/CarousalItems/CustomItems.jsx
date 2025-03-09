@@ -1,5 +1,6 @@
 import React from "react";
 import { FaArrowRightLong } from "react-icons/fa6";
+import HeroImg  from '../../../../assets/mobile.webp'
 
 const CustomItems = () => {
   return (
@@ -27,8 +28,9 @@ const CustomItems = () => {
         <div className="w-[60%]">
           <img
             className="object-cover"
-            src="../../../../../images/hero-images/mobile.webp"
-            alt=""
+            src={HeroImg}
+            alt="HeroImg"
+           
           />
         </div>
       </div>

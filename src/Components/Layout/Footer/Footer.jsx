@@ -52,18 +52,18 @@ const Footer = () => {
             <div className="flex ">
               <img
                 className="w-[90px]"
-                src="../../../../Footer-img/QrCode.png"
+                src="../../../../images/Footer-img/QrCode.png"
                 alt=""
               />
               <div className="h-[100%]">
                 <img
                   className="w-[150px] h-[50px]"
-                  src="../../../../Footer-img/GooglePlay.svg"
+                  src="../../../../images/Footer-img/GooglePlay.svg"
                   alt=""
                 />
                 <img
                   className="w-[150px] h-[50px]"
-                  src="../../../../Footer-img/AppStore.svg"
+                  src="../../../../images/Footer-img/AppStore.svg"
                   alt=""
                 />
               </div>

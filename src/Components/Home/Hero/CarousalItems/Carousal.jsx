@@ -18,7 +18,7 @@ const Carousal = () => {
           className="relative"
         >
           <div className="hs-carousel relative overflow-hidden w-full min-h-96  bg-white rounded-lg">
-            <div className="hs-carousel-body absolute top-0 bottom-0 start-0 flex flex-nowrap transition-transform duration-700 opacity-0">
+            <div className="hs-carousel-body absolute z-0 top-0 bottom-0 start-0 flex flex-nowrap transition-transform duration-700 opacity-0">
               <div className="hs-carousel-slide">
                 <div className="flex justify-center h-full  p-6 bg-black">
                   <span className="self-center text-4xl text-gray-800 transition duration-700 dark:text-white">
@@ -49,7 +49,7 @@ const Carousal = () => {
               </div>
             </div>
           </div>
-          <div className="hs-carousel-pagination flex justify-center absolute bottom-3 start-0 end-0 space-x-2" />
+          <div className="hs-carousel-pagination flex justify-center z-0 absolute bottom-3 start-0 end-0 space-x-2" />
         </div>
         {/* End Slider */}
       </>

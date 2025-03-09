@@ -1,9 +1,12 @@
 import React from 'react'
+import BreadCrumb from '../../Components/CustomComponents/BreadCrumb'
+import ContactBody from '../../Components/Contact/ContactBody'
 
 const Contact = () => {
   return (
     <>
-    <h1>COntact</h1>
+    <BreadCrumb/>
+    <ContactBody/>
       
     </>
   )
